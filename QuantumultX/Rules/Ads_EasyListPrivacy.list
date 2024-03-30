@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403291227
+## ! Version: 202403301507
 ## ! Title: EasyPrivacy
-## ! Last modified: 29 Mar 2024 12:27 UTC
+## ! Last modified: 30 Mar 2024 15:07 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1432,6 +1432,7 @@ HOST-SUFFIX,nappyattack.com,REJECT
 HOST-SUFFIX,nappyneck.com,REJECT
 HOST-SUFFIX,neatshade.com,REJECT
 HOST-SUFFIX,nebulacrescent.com,REJECT
+HOST-SUFFIX,nebulajubilee.com,REJECT
 HOST-SUFFIX,nebulousamusement.com,REJECT
 HOST-SUFFIX,nebulousripple.com,REJECT
 HOST-SUFFIX,necessarywax.com,REJECT
@@ -3688,6 +3689,7 @@ HOST-SUFFIX,msg.71.am,REJECT
 HOST-SUFFIX,p.aty.sohu.com,REJECT
 HOST-SUFFIX,p.tencentmind.com,REJECT
 HOST-SUFFIX,pos.baidu.com,REJECT
+HOST-SUFFIX,pr.nss.netease.com,REJECT
 HOST-SUFFIX,pv.hd.sohu.com,REJECT
 HOST-SUFFIX,pv.kuaizhan.com,REJECT
 HOST-SUFFIX,pv.sohu.com,REJECT
@@ -3996,6 +3998,7 @@ HOST-SUFFIX,1to1.bbva.com,REJECT
 HOST-SUFFIX,ab.blogs.es,REJECT
 HOST-SUFFIX,analitica.webrpp.com,REJECT
 HOST-SUFFIX,analytics.lasegunda.ecn.cl,REJECT
+HOST-SUFFIX,analytics.mercadolibre.com,REJECT
 HOST-SUFFIX,analytics.neoogilvy.uy,REJECT
 HOST-SUFFIX,bpt.webedia-group.com,REJECT
 HOST-SUFFIX,collector-videoplayer.5centscdn.net,REJECT
